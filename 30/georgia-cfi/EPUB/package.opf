@@ -7,17 +7,17 @@
       <dc:identifier id="uid">code.google.com.epub-samples.georgia-cfi</dc:identifier>
       <dc:title id="full-title">Encyclopaedia Britannica, 11th Edition, Volume 11, Slice 7 / Georgia</dc:title>
       <dc:language id="dclang">en-US</dc:language>
+      <meta property="dcterms:modified" id="mod">2012-02-07T16:38:35Z</meta>
       <dc:creator id="aut1">Various</dc:creator>
       <meta property="dcterms:source">http://www.gutenberg.org/files/37523/37523-h/37523-h.htm</meta>
    </metadata>
    <manifest>
-      <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+      <item href="xhtml/cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
       <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
-      <item href="georgia.xhtml" id="doc1" media-type="application/xhtml+xml"/>
+      <item href="xhtml/georgia.xhtml" id="doc1" media-type="application/xhtml+xml"/>
       <item href="css/epub.css" id="css" media-type="text/css"/>
       <item href="images/cover.png" id="cover-image" media-type="image/png" properties="cover-image"/>
       <item href="images/img752a.jpg" id="img752a" media-type="image/jpeg"/>
-      <item href="lexicon/en.pls" id="pls" media-type="application/pls+xml"/>      
    </manifest>
    <spine>
       <itemref idref="cover" linear="no"/>
