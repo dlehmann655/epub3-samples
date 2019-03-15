@@ -20,7 +20,7 @@
       <meta property="dcterms:modified" id="mod">2012-02-07T16:38:35Z</meta>
       <dc:creator id="aut1">Various</dc:creator>
       <meta refines="#aut1" property="role" scheme="marc:relators">aut</meta>
-      <meta property="dcterms:source">http://www.gutenberg.org/files/37523/37523-h/37523-h.htm</meta>
+      <dc:source>http://www.gutenberg.org/files/37523/37523-h/37523-h.htm</dc:source>
    </metadata>
    <manifest>
       <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
